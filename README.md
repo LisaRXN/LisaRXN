@@ -7,9 +7,9 @@ I'm Code Lisa, a web developer from France.
 - 📚 I studied programming at Epitech and fisics at Paris-Saclay
 - 💞️ I’m looking to collaborate on any project that can help me improve my skills
 - 📫 How to reach me:
-- Email: lisa.eriksen@epitech.eu
-- Website: www.lisaeriksen.eu
-- LinkedIn: lisa-eriksen-738a6533a
+  - Email: lisa.eriksen@epitech.eu
+  - Website: www.lisaeriksen.eu
+  - LinkedIn: lisa-eriksen-738a6533a
 
 ## 🚀 Skills & Tools:
 ### Languages:
