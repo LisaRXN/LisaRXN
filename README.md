@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm Code Lisa, a web developer from France. 
+I'm Lisa, a developer from France. 
 
 ## About me:
 - 🌱 I'm currently working as a front-end developer at Barnabé.
